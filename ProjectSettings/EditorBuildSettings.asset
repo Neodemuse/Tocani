@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Settings.unity
+    guid: 9091d226a65279041834618228bb2ac5
+  - enabled: 1
+    path: Assets/Scenes/Menus/Planeta.unity
+    guid: a8a0b5beac757ed4994b8f0f9602f9de
+  - enabled: 1
+    path: Assets/Scenes/Menus/MenuPrincipal.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inicio.unity
+    guid: 28ee0cfc945d01642b40fe7e96e920f2
+  - enabled: 1
+    path: Assets/Scenes/Menus/Introduccion.unity
+    guid: 9849110098c17b0499b3e9bf93e09041
+  m_configObjects: {}
